@@ -1,0 +1,10 @@
+# vim plugins and stuff from other people
+.vim/autoload
+.vim/plugged
+.vim/colors
+
+# temp files
+nohup.out
+
+
+
