@@ -1,1 +1,11 @@
-/home/saadyah/.vim/skeletons/skeleton.html
+<!DOCTYPE html>
+<html>
+	<head>
+	<?php
+		include('head.php');
+	?>
+	</head>
+	<body>
+
+	</body>
+</html>
