@@ -11,3 +11,4 @@
 - mpd (media player daemon)
 - mpc (controls media player daemon)
 - brightnessctl
+- grim (screenshots)
