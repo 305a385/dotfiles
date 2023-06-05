@@ -8,6 +8,7 @@ alias '$'=''
 alias '##'='sudoedit'
 alias 's'='sudo systemctl'
 alias 'pac'='sudo pacman'
+alias '#'='sudo'
 
 alias 'redyt'="$HOME/redyt/redyt"
 
