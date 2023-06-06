@@ -46,6 +46,7 @@ button {
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 #workspaces button {
 	padding: 0px 10px;
+	margin-left: 5px;
 	background-color: transparent;
 	color: #ffffff;
 	border-radius: 5px;
