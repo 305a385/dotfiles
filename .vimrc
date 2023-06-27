@@ -114,6 +114,13 @@ augroup skeleton
 augroup END
 
 
+" enable wrapping for markdown/text files
+
+augroup textfiles
+	autocmd!
+	autocmd BufRead *.md setlocal wrap linebreak nolist
+	autocmd BufRead *.txt setlocal wrap linebreak nolist
+augroup END
 
 " If Vim version is equal to or greater than 7.3 enable undofile.
 " This allows you to undo changes to a file even after saving it.
