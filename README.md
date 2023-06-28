@@ -1,3 +1,5 @@
+[moved to codeberg](https://github.com/305a385/dotfiles)
+
 # DOTFILES FOR:
 - zsh
 - hyprland
